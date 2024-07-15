@@ -56,7 +56,7 @@ Click OK to confirm changes.
 
 (8) Download and install VC_redist.x86.exe.  https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
 
-(9) download and instal MySQL.  Choose Typical setup type -> Launch Configuration Wizard after install -> Standard configuration -> Install As Windows Service.  https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
+(9) download and instal MySQL.  Choose Typical setup type -> Launch Configuration Wizard after install -> Standard configuration -> Install As Windows Service -> create "root" password.  https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
 
 (10) Open IIS as Administator.  
 Type IIS in Windows search bar, click Run as Administrator
