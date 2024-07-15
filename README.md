@@ -19,13 +19,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- IIS
+- PHP Manager
+- Rewrite Module
+- VC_redistx86
+- MySQL 5.5.62
+- Heidi SQL
 
 <h2>Installation Steps</h2>
+
+(1) Create a virtual machine in Azure
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
