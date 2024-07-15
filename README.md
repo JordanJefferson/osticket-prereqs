@@ -79,4 +79,15 @@ Within C:\inetpub\wwwroot, rename "upload" to "osTicket"
 
 (15) Open osTicket  
 Click Sites -> Default Web Site -> osTicket (red) -> Browse *:80 (http) (blue)  
-![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/db86348c581780c026d34c81db6d0f0d228868b5/Capture.PNG%205.PNG)
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/db86348c581780c026d34c81db6d0f0d228868b5/Capture.PNG%205.PNG)  
+
+osTicket Should open in a different web browser  
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/a1b649b890d9905f81a38f00a36123cbb39e4935/Capture.PNG6.PNG)  
+
+(16) Enable Extensions  
+Open IIS -> PHP Manager -> Select "Enable or disable Extension  
+Enable PHP_imap.dll, PHP_intl.dll, and PHP_opcache.dll  
+
+(17) Refresh osTicket
+after refreshing you should only have 2 (X)  
+
