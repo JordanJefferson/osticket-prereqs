@@ -115,5 +115,6 @@ right click on "Unnamed" and create a new database called "osTicket"
 Go back to osTicket browser and fill out "Database Settings" portion  
 click "Install Now"  
 
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/46dea51cacb3e0b63209a06625954a75064b8872/Capture.PNG9.PNG)   
 
-
+<H1>Congratulations!!! You've now installed osTicket</H1>
