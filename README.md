@@ -42,7 +42,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 (3) Once the VM is open, install/enable IIS. Open Control Panel -> Programs -> Turn Windows features on or off.
 Enable/expand the following 
 
-
 ![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/18137d739749e9992bd465c4819048d25d465aa8/Capture.PNG3.PNG)
 Click OK to confirm changes.
 
@@ -62,7 +61,8 @@ Click OK to confirm changes.
 (10) Open IIS as Administator.  
 Type IIS in Windows search bar, click Run as Administrator
 
-(11) Register PHP manager
+(11) Register PHP manager.  
 Click PHP Manager -> select register new PHP version -> provide "C:\PHP\php-cgi.exe" 
 
-(12) Restart IIS server.
+(12) Restart IIS server.  
+
