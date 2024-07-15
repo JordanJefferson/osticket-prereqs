@@ -37,4 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/1f7b4339eeac1fc197344d0ef39225b333ebc45a/Capture.PNG2.PNG)
 
 
-(3) 
+(3) Once the VM is open, install/enable IIS. Open Control Panel -> Programs -> Turn Windows features on or off.
+Enable/expand the following 
+
+![image alt]()
