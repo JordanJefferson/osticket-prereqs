@@ -112,4 +112,8 @@ Open HeidiSQL and use the login credentials you made with "mySQL"
 right click on "Unnamed" and create a new database called "osTicket"  
 
 (23) Finish osTicket installation  
-Go back to osTicket browser and fill out "Database Settings" portion
+Go back to osTicket browser and fill out "Database Settings" portion  
+click "Install Now"  
+
+
+
