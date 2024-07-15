@@ -29,6 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 (1) Create a virtual machine in Azure. Select Windows 10 for image (base operating system).
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/258a9d8a8055508aae069cdf51bd3bdf5271a6f0/Capture.PNG)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
