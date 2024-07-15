@@ -78,4 +78,5 @@ Within C:\inetpub\wwwroot, rename "upload" to "osTicket"
 (14) Restart the IIS again
 
 (15) Open osTicket  
-Click Sites -> Default Web Site -> osTicket (red) -> Browse*:80 (http) (blue)
+Click Sites -> Default Web Site -> osTicket (red) -> Browse *:80 (http) (blue)  
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/db86348c581780c026d34c81db6d0f0d228868b5/Capture.PNG%205.PNG)
