@@ -102,5 +102,14 @@ Inherited Permissions
 Add -> select a principal -> type "everyone" as the object name -> click "OK" -> select "Full Control" -> OK -> Apply -> OK   
 
 (20) Continue Setting up osTicket 
-fill out first half of page  
-![image alt]()
+fill out "System Settings" and "Admin User" portion  
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/33e012b7b597c88be9bd120e7c0173e29f25e566/Capture.PNG8.PNG)   
+
+(21) Download and install HeidiSQL https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit  
+Open HeidiSQL and use the login credentials you made with "mySQL"  
+
+(22) Create new database  
+right click on "Unnamed" and create a new database called "osTicket"  
+
+(23) Finish osTicket installation  
+Go back to osTicket browser and fill out "Database Settings" portion
