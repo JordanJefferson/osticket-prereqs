@@ -88,6 +88,16 @@ osTicket Should open in a different web browser
 Open IIS -> PHP Manager -> Select "Enable or disable Extension  
 Enable PHP_imap.dll, PHP_intl.dll, and PHP_opcache.dll  
 
-(17) Refresh osTicket
-after refreshing you should only have 2 (X)  
+(17) Refresh osTicket   
+APCu Extension and Zend OPcache Extension should be the only ones with a red (X)  
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/b630e41181308f4c5c54424cb6f40f63efe2e2de/Capture.PNG7.PNG)   
+
+(18) Rename ost-config.php   
+open file explorer -> go to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php  
+rename it to ost-config.php
+
+(19) Assign Permissions ost-config.php
+right click ost-config.php -> properties -> security -> advanced -> Disable inheritance -> Remove All
+Inherited Permissions   
+Add -> select a principal -> type "everyone" as the object name -> click "OK" -> select "Full Control" -> OK -> Apply -> OK   
 
