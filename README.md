@@ -68,7 +68,7 @@ Click PHP Manager -> select register new PHP version -> provide "C:\PHP\php-cgi.
 ![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/b84b56feada1ff52a2d416d4a3e3bcf94a13d46e/Capture.PNG4.PNG)
 
 
-(13) Download and install osTicket.  
+(13) Download and install osTicket-v1.15.8.zip  https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
 open 2 file explorers  
 in 1 go to downloads -> osTicket-v1.15.8  
 in 2 go to C: -> inetpub -> wwwroot  
@@ -101,3 +101,6 @@ right click ost-config.php -> properties -> security -> advanced -> Disable inhe
 Inherited Permissions   
 Add -> select a principal -> type "everyone" as the object name -> click "OK" -> select "Full Control" -> OK -> Apply -> OK   
 
+(20) Continue Setting up osTicket 
+fill out first half of page  
+![image alt]()
