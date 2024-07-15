@@ -65,4 +65,17 @@ Type IIS in Windows search bar, click Run as Administrator
 Click PHP Manager -> select register new PHP version -> provide "C:\PHP\php-cgi.exe" 
 
 (12) Restart IIS server.  
+![image alt](https://github.com/JordanJefferson/osticket-prereqs/blob/b84b56feada1ff52a2d416d4a3e3bcf94a13d46e/Capture.PNG4.PNG)
 
+
+(13) Download and install osTicket.  
+open 2 file explorers  
+in 1 go to downloads -> osTicket-v1.15.8  
+in 2 go to C: -> inetpub -> wwwroot  
+Drag "upload" from first file to the second  
+Within C:\inetpub\wwwroot, rename "upload" to "osTicket"
+
+(14) Restart the IIS again
+
+(15) Open osTicket  
+Click Sites -> Default Web Site -> osTicket (red) -> Browse*:80 (http) (blue)
