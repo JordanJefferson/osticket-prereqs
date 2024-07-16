@@ -113,6 +113,7 @@ Click PHP Manager -> select register new PHP version -> provide "C:\PHP\php-cgi.
 <br>
 
 (13) Download and install osTicket-v1.15.8.zip https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link     
+<br>
 Extract and copy “upload” folder to c:\inetpub\wwwroot  
 <br>
 Within C:\inetpub\wwwroot, rename "upload" to "osTicket"
