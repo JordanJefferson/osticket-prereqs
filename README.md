@@ -112,11 +112,8 @@ Click PHP Manager -> select register new PHP version -> provide "C:\PHP\php-cgi.
 <br>
 <br>
 
-(13) Download and install osTicket-v1.15.8.zip  https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
-open 2 file explorers  
-in 1 go to downloads -> osTicket-v1.15.8  
-in 2 go to C: -> inetpub -> wwwroot  
-Drag "upload" from first file to the second  
+(13) Download and install osTicket-v1.15.8.zip https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link     
+Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within C:\inetpub\wwwroot, rename "upload" to "osTicket"
 
 <br>
